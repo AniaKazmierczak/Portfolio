@@ -19,6 +19,7 @@ Co prawda jest to mój początek drogi Quality Assurance, jednakże jestem otwar
 * Pisanie scenariuszy (User Stories)
 * Tworzenie raportów testowych
 * Tworzenie pseudokodu
+* Znajomość ISTQB
 
 ## UMIEJĘTNOŚCI MIĘKKIE
 * Skrupulatność
@@ -32,6 +33,10 @@ Co prawda jest to mój początek drogi Quality Assurance, jednakże jestem otwar
 * PJATK: Studia I stopnia Architektura Wnętrz
 
 ## W PRAKTYCE
+
+# Praca zaliczeniowa GoIt:
+* https://drive.google.com/drive/folders/1mb2cPnslouxoIi5RX12_0JAvG0hBH9-R
+* https://trello.com/b/anb5gAOf/testy-kaputa
 
 # Testowanie portalu ArtStation:
 * https://drive.google.com/drive/folders/1hTdI1Mt7-none3YD1jCS_VMIrO8GmjV9
