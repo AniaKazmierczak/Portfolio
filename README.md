@@ -5,7 +5,7 @@
 ## SUMMARY
 I am QA beginner, who wishs to join to Your team, where I can be able to explore knowledge about IT industry. Though, I am on the beginning of the pathway as QA, I'm open to incoming challenges and learning new technical skills, and also for useful software strongly related with QA's/IT's environment.
 
-## NARZĘDZIA TECHNICZNE
+## TECH SOFTWARE
 * Test management: TestLink, TestRail, Jira, Trello
 * Learned management methods: SCRUM
 * To create a repository: GitHub
