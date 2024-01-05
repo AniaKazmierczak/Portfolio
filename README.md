@@ -2,66 +2,63 @@
 
 # JUNIOR QA ENGINEER
 
-## O MNIE
+## SUMMARY
 Jestem początkującą Testerką, która ma chęci do dołączenia do zespołu, gdzie będę mogłą zgłębiać dalszą wiedzę w świecie IT.
 Co prawda jest to mój początek drogi Quality Assurance, jednakże jestem otwarta na nadchodzące wyzwania, naukę nowych umiejętności technicznych, jak również przydatnego w środowisku IT/QA oprogramowania.
 
 ## NARZĘDZIA TECHNICZNE
-* Zarządzanie testowaniem: TestLink, TestRail, Jira, Trello
-* Poznane metody zarządzania: SCRUM
-* Do tworzenia repozytorium: GitHub
-* Języki programowania: SQL, XML, JSON
+* Test management: TestLink, TestRail, Jira, Trello
+* Learned management methods: SCRUM
+* To create a repository: GitHub
+* Software languages: SQL, XML, JSON
 
-## UMIEJĘTNOŚCI TECHNICZNE
-* Testowanie oprogramowania
-* Tworzenie przypadków testowych (Test Cases)
-* Zgłaszanie błędów (Bugs Reports)
-* Pisanie scenariuszy (User Stories)
-* Tworzenie raportów testowych
-* Tworzenie pseudokodu
-* Znajomość ISTQB
+## TECH SKILLS
+* Software testing
+* Test Cases
+* Bugs Reports
+* User Stories
+* Test Reports
+* Creating pseudocode
+* ISTQB knowledge
 
-## UMIEJĘTNOŚCI MIĘKKIE
-* Skrupulatność
-* Kooperacja ze współpracownikami
-* Dobra organizacja pracy
-* Chęć do nauki nowych umiejętności zawodowych
+## SOFT SKILLS
+* Conscientiousness
+* Teamwork
+* Good work organization
+* Willing to aquire new professional skills
 
-## WYKSZTAŁCENIE
-* GOIT: Kurs QA
-* Potęga Obrazu: Kurs Concept Art & Digital Painting
-* PJATK: Studia I stopnia Architektura Wnętrz
+## EDUCATION
+* GOIT: QA manual course
+* Potęga Obrazu: Concept Art & Digital Painting course
+* PJATK: Interior Design Bachelors Degree
 
-## W PRAKTYCE
+## IN PRACTICE
 
-# Praca zaliczeniowa GoIt:
+# GoIt exam:
 * https://drive.google.com/drive/folders/1mb2cPnslouxoIi5RX12_0JAvG0hBH9-R
 * https://trello.com/b/anb5gAOf/testy-kaputa
 
-# Testowanie portalu ArtStation:
+# ArtStation website testing:
 * https://drive.google.com/drive/folders/1hTdI1Mt7-none3YD1jCS_VMIrO8GmjV9
 * https://trello.com/b/vGYPs2xR/testy-artstation
 
-## SQL
-* 1
-
-## Pseudokod
+## Pseudocode
 * https://drive.google.com/drive/folders/1GtAh8XhsnpqultsdQvvuFQhb7UUNIjjl
 
 XML/JSON
 * https://drive.google.com/drive/folders/1gRKGYMD2AR4OIhzIbbc_mjB4gvnKto8J
 
-## JĘZYKI
-* Angielski (B2)
-* Polski (natywny)
+## LANGUAGES
+* English (B2)
+* Polish (native)
 
 ## HOBBY
-* Gry komputerowe
+* Video games
   * RPG
-  * Strategiczne
-  * Przygodowe/Akcji
-* Światotwórstwo w fantastyce i grach komputerowych
-* Muzyka:
-  * Ścieżki dźwiękowe (filmy/gry komputerowe)
+  * RTS
+  * Adventure/Action
+* Worldbuilding in fantasy
+* Music:
+  * OST's
   * Ambient
-* Astronomia i nowe technologie
+* Astronomy and new technologies
