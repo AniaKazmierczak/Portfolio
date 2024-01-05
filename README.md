@@ -3,8 +3,7 @@
 # JUNIOR QA ENGINEER
 
 ## SUMMARY
-Jestem początkującą Testerką, która ma chęci do dołączenia do zespołu, gdzie będę mogłą zgłębiać dalszą wiedzę w świecie IT.
-Co prawda jest to mój początek drogi Quality Assurance, jednakże jestem otwarta na nadchodzące wyzwania, naukę nowych umiejętności technicznych, jak również przydatnego w środowisku IT/QA oprogramowania.
+I am QA beginner, who wishs to join to Your team, where I can be able to explore knowledge about IT industry. Though, I am on the beginning of the pathway as QA, I'm open to incoming challenges and learning new technical skills, and also for useful software strongly related with QA's/IT's environment.
 
 ## NARZĘDZIA TECHNICZNE
 * Test management: TestLink, TestRail, Jira, Trello
